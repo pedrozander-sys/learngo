@@ -16,6 +16,7 @@ The best way to learn is by doing. Inside this repository, you will find thousan
 * **[English](https://github.com/inancgumus/learngo)**
 * **[Spanish](translation/spanish)** _(WIP: Please Contribute)_
 * **[Chinese](translation/chinese)** _(WIP: Please Contribute)_
+* **[Portuguese (Brazil)](translation/portuguese)** _(WIP: Please Contribute)_
 
 ## ❤️ Help other fellow developers
 
