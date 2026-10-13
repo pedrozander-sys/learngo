@@ -2,6 +2,8 @@
 
 Escolha o seu sistema operacional abaixo para ver as instruções de instalação detalhadas:
 
-* [OS X](../../../01-get-started/osx-installation.md) _(ainda em inglês)_
-* [Windows](../../../01-get-started/windows-installation.md) _(ainda em inglês)_
-* [Linux (Ubuntu)](../../../01-get-started/ubuntu-installation.md) _(ainda em inglês)_
+* [OS X](instalacao-osx.md)
+* [Windows](instalacao-windows.md)
+* [Linux (Ubuntu)](instalacao-ubuntu.md)
+
+Veja também: [Roteiro do programador](roteiro-do-programador.md)
